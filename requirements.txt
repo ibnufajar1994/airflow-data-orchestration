@@ -1,0 +1,6 @@
+pandas==2.2.2
+pangres @ git+https://github.com/ThibTrip/pangres.git@master
+pendulum
+minio
+sqlalchemy
+psycopg2-binary

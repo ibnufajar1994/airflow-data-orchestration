@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/bcf84dd5-d2ef-40ec-8094-11875c0afb14)# airflow-data-orchestration
-
 # **Designing Data Pipeline using Airflow**
 
 ## Content

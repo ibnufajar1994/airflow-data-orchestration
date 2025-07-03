@@ -1,4 +1,4 @@
-# airflow-data-orchestration
+![image](https://github.com/user-attachments/assets/bcf84dd5-d2ef-40ec-8094-11875c0afb14)# airflow-data-orchestration
 
 # **Designing Data Pipeline using Airflow**
 
@@ -110,6 +110,10 @@ airflow connections import include/connections.yaml
 
 ## Sample Queries
 ![Sample Queries](sample/6.%20sample-queries.png)
+
+## Slack Notifications
+![image](https://github.com/user-attachments/assets/ec94abaf-3cc2-4d60-b503-e9db832f5d77)
+
 
 
 

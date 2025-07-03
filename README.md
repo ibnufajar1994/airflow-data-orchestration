@@ -100,7 +100,7 @@ airflow connections import include/connections.yaml
 ![DAG Graph](sample/2.dag-graph.png)
 
 ## XComs
-![XComs](sample/3.Xcoms.png)
+![XComs](sample/3.%20XComs.png)
 
 ## Skip Exception
 ![Skip Exception](sample/4.skip-exception.png)
@@ -109,7 +109,8 @@ airflow connections import include/connections.yaml
 ![Sample Warehouse Database](sample/5.sample-warehouse-database.png)
 
 ## Sample Queries
-![Sample Queries](sample/6.sample-queries.png)
+![Sample Queries](sample/6.%20sample-queries.png)
+
 
 
   

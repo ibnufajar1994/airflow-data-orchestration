@@ -93,7 +93,23 @@ airflow connections import include/connections.yaml
 
 # Documentation
 
+## DAG Sample
+![DAG Sample](sample/1.dag-sample.png)
 
+## DAG Graph
+![DAG Graph](sample/2.dag-graph.png)
+
+## XComs
+![XComs](sample/3.Xcoms.png)
+
+## Skip Exception
+![Skip Exception](sample/4.skip-exception.png)
+
+## Sample Warehouse Database
+![Sample Warehouse Database](sample/5.sample-warehouse-database.png)
+
+## Sample Queries
+![Sample Queries](sample/6.sample-queries.png)
 
 
   
